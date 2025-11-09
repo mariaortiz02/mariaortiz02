@@ -1,7 +1,7 @@
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola, soy María José!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00ADEF&center=true&vCenter=true&width=600&lines=Administrador+de+Sistemas+y+Redes;Apasionada+por+la+Ciberseguridad;DevOps+%7C+Cloud+%7C+Automatización+IT" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00ADEF&center=true&vCenter=true&width=600&lines=Administradora+de+Sistemas+y+Redes;Apasionada+por+la+Ciberseguridad;DevOps+%7C+Cloud+%7C+Automatización+IT" />
 </p>
 
 ---
